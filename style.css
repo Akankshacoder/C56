@@ -1,0 +1,12 @@
+p
+{
+    max-width: 400px;
+    text-align:justify;
+}
+body{
+    background: linear-gradient(to right ,blue,pink);
+}
+hr{
+    width:500px; height: 5px;
+    background-color: aqua;
+}
